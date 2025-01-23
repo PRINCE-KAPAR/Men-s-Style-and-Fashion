@@ -1,3 +1,3 @@
-Basic E-Commerce website
+Basic E-Commerce frontEnd
 # By PRINCE-KAPAR
  
